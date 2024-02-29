@@ -1,0 +1,45 @@
+.list-table,.list-table-data,.list-table-column{
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+
+  .list-table{
+    width: 100%;
+  }
+
+  .list-table-column{
+    height: 50px;
+    background-color: skyblue;
+  }
+  
+
+  .list-table-data{
+    text-align: center;
+    padding: 12px;
+  }
+
+  .edit-btn{
+    background-color: #008CBA;
+    font-size: 20px;
+    color: white;
+    padding: 9px 18px;
+    border: none;
+  }
+
+  .del-btn {
+    background-color: #f44336;
+    font-size: 20px;
+    color: white;
+    padding: 9px 18px;
+    border: none;
+  }
+
+  .mul-del-btn {
+    background-color: #f44336;
+    font-size: 20px;
+    color: white;
+    padding: 9px 18px;
+    border: none;
+  }
+
+  
